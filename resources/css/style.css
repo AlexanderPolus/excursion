@@ -2,8 +2,12 @@ body {
     background-color: black;
 }
 
-h1 {
+h1, h3 {
     color: white;
+}
+
+img {
+    width: 100%;
 }
 
 a {
